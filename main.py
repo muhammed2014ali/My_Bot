@@ -1,3 +1,5 @@
+import discord
+from bot_mantik import 
 
 # İstekler değişkeni botun yetkilerini saklar
 intents = discord.Intents.default()
